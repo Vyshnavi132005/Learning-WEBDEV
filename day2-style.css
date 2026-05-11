@@ -1,0 +1,29 @@
+.color_blue {
+    color:blue;
+}
+.color_red {
+    color:red;
+}
+.color_green {
+    color:green;
+}
+img {
+    width: 100px
+}
+.buchi {
+    border_style: dashed;
+    border_width: 30px;
+    border_color: red;
+
+    padding: 20px;
+
+    margin: 50px;
+
+    text-align: left;
+    text-align: center;
+    text-align: right;
+    text-align: justify;
+
+    width: 70%;
+
+}
